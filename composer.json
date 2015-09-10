@@ -1,0 +1,32 @@
+{
+    // package name
+    "name": "heddy/yii2-fpdf",
+
+    // package type
+    "type": "yii2-extension",
+
+    "description": "Integration of FPDF in Yii2",
+    "keywords": ["yii2", "fpdf", "pdf", "helper"],
+    "license": "MIT-License",
+    "support": {
+        "issues": "https://github.com/Heddy147/yii2-fpdf/issues",
+    },
+    "authors": [
+        {
+            "name": "Dominik Hendrix",
+            "email": "dominik.hendrix@hotmail.de"
+        }
+    ],
+
+    // package dependencies
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+
+    // class autoloading specs
+    "autoload": {
+        "psr-4": {
+            "yii\\fpdf\\": ""
+        }
+    }
+}
