@@ -1,12 +1,9 @@
 {
     "name": "heddy/yii2-fpdf",
+    "description": "Includes FPDF in Yii2",
     "type": "yii2-extension",
-    "description": "Integration of FPDF in Yii2",
-    "keywords": ["yii2", "fpdf", "pdf", "helper"],
-    "license": "MIT-License",
-    "support": {
-        "issues": "https://github.com/Heddy147/yii2-fpdf/issues"
-    },
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Dominik Hendrix",
