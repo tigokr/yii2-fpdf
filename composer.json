@@ -5,7 +5,7 @@
     "keywords": ["yii2", "fpdf", "pdf", "helper"],
     "license": "MIT-License",
     "support": {
-        "issues": "https://github.com/Heddy147/yii2-fpdf/issues",
+        "issues": "https://github.com/Heddy147/yii2-fpdf/issues"
     },
     "authors": [
         {
