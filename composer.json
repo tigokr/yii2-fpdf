@@ -1,21 +1,15 @@
 {
-    "name": "heddy/yii2-fpdf",
+    "name": "tigokr/yii2-fpdf",
     "description": "Includes FPDF in Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Dominik Hendrix",
-            "email": "dominik.hendrix@hotmail.de"
-        }
-    ],
     "require": {
         "yiisoft/yii2": "*"
     },
     "autoload": {
         "psr-4": {
-            "heddy\\pdf\\": ""
+            "tigokr\\pdf\\": ""
         }
     }
 }
